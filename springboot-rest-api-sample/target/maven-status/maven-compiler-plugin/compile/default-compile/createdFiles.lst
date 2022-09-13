@@ -1,0 +1,4 @@
+br\com\springboot\cadastro\Application.class
+br\com\springboot\cadastro\model\Usuario.class
+br\com\springboot\cadastro\controllers\GreetingsController.class
+br\com\springboot\cadastro\repository\UsuarioRepository.class
